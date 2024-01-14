@@ -14,3 +14,4 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({{import = "tenma.plugins"}, {import = "tenma.plugins.lsp"}})
 require("lspconfig").pyright.setup({})
+require("lspconfig").clangd.setup({})
