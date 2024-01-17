@@ -8,6 +8,7 @@ I mainly implement AI-related prototypes using Python and C++ but this configura
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim): LSP manager
 - [nvm-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua): File explorer
 - [nvim-telescope/telescope](https://github.com/nvim-telescope/telescope.nvim): Find, Filter, Preview, Pick
+- [iamcco/markdown-preview](https://github.com/iamcco/markdown-preview.nvim): Markdown preview plugin for nvim
 
 ## Themes
 - [embark-theme/vim](https://github.com/embark-theme/vim): An amazing theme for vim/neovim
