@@ -20,7 +20,8 @@ local options = {
     number = true,                      --add line numbers
     cc = "120",                         --set an 120 column border for good coding style
     ttyfast = true,                     --Speed up scrolling in Vim
-    cursorline = true
+    cursorline = true,
+    relativenumber = true
 }
 
 -- For Key and Value pairs of 'options', do vim.opt[Key] = value
